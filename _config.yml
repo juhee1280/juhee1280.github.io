@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "김곰돌"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자를 위한 공부기록"
+  bio              : "공부기록"
   location         : "Somewhere"
   email            :
   links:
